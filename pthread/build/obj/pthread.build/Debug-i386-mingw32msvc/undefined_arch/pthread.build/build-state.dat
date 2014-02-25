@@ -1,0 +1,64 @@
+Tpthread
+v6
+r1
+cCheck dependencies
+cSymLink /Users/manu/Cocotron/cocotron_tds/pthread/build/sym/Debug-i386-mingw32msvc/i386/pthread.1.0.dll /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/pthread.1.0.dll
+cCpHeader pthread.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/include/pthread.h
+cCpHeader sched.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/include/sched.h
+
+N/Users/manu/Cocotron/cocotron_tds/pthread/build/sym/Debug-i386-mingw32msvc/i386/pthread.1.0.dll
+t2
+s0
+
+N/Users/manu/Cocotron/cocotron_tds/pthread/pthread.h
+c00000000530C8E260000000000000DE2
+t1393331750
+s3554
+
+N/Users/manu/Cocotron/cocotron_tds/pthread/sched.h
+c00000000530C8E260000000000000098
+t1393331750
+s152
+
+N/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/include/pthread.h
+t2
+s0
+
+N/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/include/sched.h
+t2
+s0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies72c47a40cbbcb841^6dc67d40cbbcb841^---0#1#1#--18"Check dependencies36"B3DE6E2E-C50A-42F9-8B1A-19AD30553B7D-
+
+CCpHeader pthread.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/include/pthread.h
+s415025984.486331
+e415025984.487301
+r1
+xCpHeader
+xpthread.h
+x/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/include/pthread.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Copy /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/include/pthread.h94"CpHeader pthread.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/include/pthread.ha7937c40cbbcb841^02f27d40cbbcb841^---0#0#1#-19%DVTDocumentLocation2@82"file:///Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/include/pthread.h0034ecf7ddffdf42^500"CpHeader pthread.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/include/pthread.h    cd /Users/manu/Cocotron/cocotron_tds/pthread    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/manu/Cocotron/cocotron_tds/pthread/pthread.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/include36"37B8817A-010C-4079-9BCC-FA002CDE0614-
+b6DC2B3C6-65F7-4171-A406-14DFF34E7868
+
+CCpHeader sched.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/include/sched.h
+s415025984.486606
+e415025984.487414
+r1
+xCpHeader
+xsched.h
+x/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/include/sched.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Copy /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/include/sched.h90"CpHeader sched.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/include/sched.h3ca07c40cbbcb841^49f57d40cbbcb841^---0#0#1#-19%DVTDocumentLocation2@80"file:///Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/include/sched.h0034ecf7ddffdf42^494"CpHeader sched.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/include/sched.h    cd /Users/manu/Cocotron/cocotron_tds/pthread    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/manu/Cocotron/cocotron_tds/pthread/sched.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/include36"C73F1B81-C08A-4F5A-A180-300A9AD5622A-
+b6DC2B3C6-65F7-4171-A406-14DFF34E7868
+
+CSymLink /Users/manu/Cocotron/cocotron_tds/pthread/build/sym/Debug-i386-mingw32msvc/i386/pthread.1.0.dll /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/pthread.1.0.dll
+s415025984.480642
+e415025984.485871
+r1
+xSymLink
+x/Users/manu/Cocotron/cocotron_tds/pthread/build/sym/Debug-i386-mingw32msvc/i386/pthread.1.0.dll
+x/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/pthread.1.0.dll
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Process /Users/manu/Cocotron/cocotron_tds/pthread/build/sym/Debug-i386-mingw32msvc/i386/pthread.1.0.dll135"SymLink build/sym/Debug-i386-mingw32msvc/i386/pthread.1.0.dll /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/pthread.1.0.dll711d7b40cbbcb841^f6ec7d40cbbcb841^---0#0#1#--371"SymLink build/sym/Debug-i386-mingw32msvc/i386/pthread.1.0.dll /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/pthread.1.0.dll    cd /Users/manu/Cocotron/cocotron_tds/pthread    /bin/ln -sf /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/pthread.1.0.dll /Users/manu/Cocotron/cocotron_tds/pthread/build/sym/Debug-i386-mingw32msvc/i386/pthread.1.0.dll36"9B1948BB-20B5-4F48-93B6-0FD1E4D759F8-
+b6DC2B3C6-65F7-4171-A406-14DFF34E7868
+

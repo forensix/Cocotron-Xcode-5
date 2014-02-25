@@ -1,0 +1,3 @@
+00000000530c8e260000000000000098 0a04d070ae4924a1f71498b5d4480693 ffffffffffffffffffffffffffffffff 0 /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/include/sched.h
+00000000530c8e260000000000000de2 43337b60d8ae22d8f23d3cc6852827eb ffffffffffffffffffffffffffffffff 0 /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/include/pthread.h
+00000000000000000000000000000000 6b499d0fb6da20ae92e2319685e7af16 ffffffffffffffffffffffffffffffff 0 /Users/manu/Cocotron/cocotron_tds/pthread/build/sym/Debug-i386-mingw32msvc/i386/pthread.1.0.dll

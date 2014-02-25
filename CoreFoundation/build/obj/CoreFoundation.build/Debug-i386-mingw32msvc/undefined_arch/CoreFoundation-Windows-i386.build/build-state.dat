@@ -1,0 +1,852 @@
+TCoreFoundation-Windows-i386
+v6
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Resources/Info.plist /Users/manu/Cocotron/cocotron_tds/CoreFoundation/Info.plist
+cSymLink /Users/manu/Cocotron/cocotron_tds/CoreFoundation/build/sym/Debug-i386-mingw32msvc/i386/CoreFoundation.framework /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework
+cCpHeader CFBase.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFBase.h
+cCpHeader CFLocale.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFLocale.h
+cCpHeader CFNumber.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFNumber.h
+cCpHeader CFNumberFormatter.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFNumberFormatter.h
+cCpHeader CFString.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFString.h
+cCpHeader CoreFoundation.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CoreFoundation.h
+cCpHeader CFArray.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFArray.h
+cCpHeader CFAttributedString.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFAttributedString.h
+cCpHeader CFBag.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFBag.h
+cCpHeader CFBinaryHeap.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFBinaryHeap.h
+cCpHeader CFBitVector.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFBitVector.h
+cCpHeader CFBundle.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFBundle.h
+cCpHeader CFByteOrder.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFByteOrder.h
+cCpHeader CFCalendar.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFCalendar.h
+cCpHeader CFCharacterSet.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFCharacterSet.h
+cCpHeader CFData.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFData.h
+cCpHeader CFDate.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFDate.h
+cCpHeader CFDateFormatter.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFDateFormatter.h
+cCpHeader CFDictionary.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFDictionary.h
+cCpHeader CFError.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFError.h
+cCpHeader CFFileDescriptor.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFFileDescriptor.h
+cCpHeader CFMachPort.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFMachPort.h
+cCpHeader CFMessagePort.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFMessagePort.h
+cCpHeader CFNotificationCenter.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFNotificationCenter.h
+cCpHeader CFPlugIn.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFPlugIn.h
+cCpHeader CFPreferences.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFPreferences.h
+cCpHeader CFPropertyList.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFPropertyList.h
+cCpHeader CFRunLoop.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFRunLoop.h
+cCpHeader CFSet.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFSet.h
+cCpHeader CFSocket.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFSocket.h
+cCpHeader CFStream.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFStream.h
+cCpHeader CFStringTokenizer.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFStringTokenizer.h
+cCpHeader CFTimeZone.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFTimeZone.h
+cCpHeader CFTree.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFTree.h
+cCpHeader CFURL.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFURL.h
+cCpHeader CFUserNotification.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFUserNotification.h
+cCpHeader CFUUID.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFUUID.h
+cCpHeader CFXMLNode.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFXMLNode.h
+cCpHeader CFXMLParser.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFXMLParser.h
+cCopyStringsFile /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cTouch /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework
+
+N/Users/manu/Cocotron/cocotron_tds/CoreFoundation/CFArray.h
+c00000000530C8E260000000000001136
+t1393331750
+s4406
+
+N/Users/manu/Cocotron/cocotron_tds/CoreFoundation/CFAttributedString.h
+c00000000530C8E260000000000000FCD
+t1393331750
+s4045
+
+N/Users/manu/Cocotron/cocotron_tds/CoreFoundation/CFBag.h
+c00000000530C8E260000000000000E7B
+t1393331750
+s3707
+
+N/Users/manu/Cocotron/cocotron_tds/CoreFoundation/CFBase.h
+c00000000530C8E26000000000000205E
+t1393331750
+s8286
+
+N/Users/manu/Cocotron/cocotron_tds/CoreFoundation/CFBinaryHeap.h
+c00000000530C8E260000000000000E75
+t1393331750
+s3701
+
+N/Users/manu/Cocotron/cocotron_tds/CoreFoundation/CFBitVector.h
+c00000000530C8E26000000000000088B
+t1393331750
+s2187
+
+N/Users/manu/Cocotron/cocotron_tds/CoreFoundation/CFBundle.h
+c00000000530C8E260000000000001CD7
+t1393331750
+s7383
+
+N/Users/manu/Cocotron/cocotron_tds/CoreFoundation/CFByteOrder.h
+c00000000530C8E260000000000000EB0
+t1393331750
+s3760
+
+N/Users/manu/Cocotron/cocotron_tds/CoreFoundation/CFCalendar.h
+c00000000530C8E26000000000000102F
+t1393331750
+s4143
+
+N/Users/manu/Cocotron/cocotron_tds/CoreFoundation/CFCharacterSet.h
+c00000000530C8E2600000000000010BD
+t1393331750
+s4285
+
+N/Users/manu/Cocotron/cocotron_tds/CoreFoundation/CFData.h
+c00000000530C8E260000000000000AA9
+t1393331750
+s2729
+
+N/Users/manu/Cocotron/cocotron_tds/CoreFoundation/CFDate.h
+c00000000530C8E260000000000000DEE
+t1393331750
+s3566
+
+N/Users/manu/Cocotron/cocotron_tds/CoreFoundation/CFDateFormatter.h
+c00000000530C8E260000000000000BDE
+t1393331750
+s3038
+
+N/Users/manu/Cocotron/cocotron_tds/CoreFoundation/CFDictionary.h
+c00000000530C8E260000000000001321
+t1393331750
+s4897
+
+N/Users/manu/Cocotron/cocotron_tds/CoreFoundation/CFError.h
+c00000000530C8E260000000000000A44
+t1393331750
+s2628
+
+N/Users/manu/Cocotron/cocotron_tds/CoreFoundation/CFFileDescriptor.h
+c00000000530C8E260000000000000B7E
+t1393331750
+s2942
+
+N/Users/manu/Cocotron/cocotron_tds/CoreFoundation/CFLocale.h
+c00000000530C8E26000000000000113D
+t1393331750
+s4413
+
+N/Users/manu/Cocotron/cocotron_tds/CoreFoundation/CFMachPort.h
+c00000000530C8E260000000000000B42
+t1393331750
+s2882
+
+N/Users/manu/Cocotron/cocotron_tds/CoreFoundation/CFMessagePort.h
+c00000000530C8E260000000000000E0E
+t1393331750
+s3598
+
+N/Users/manu/Cocotron/cocotron_tds/CoreFoundation/CFNotificationCenter.h
+c00000000530C8E260000000000000A8B
+t1393331750
+s2699
+
+N/Users/manu/Cocotron/cocotron_tds/CoreFoundation/CFNumber.h
+c00000000530C8E260000000000000B08
+t1393331750
+s2824
+
+N/Users/manu/Cocotron/cocotron_tds/CoreFoundation/CFNumberFormatter.h
+c00000000530C8E260000000000001993
+t1393331750
+s6547
+
+N/Users/manu/Cocotron/cocotron_tds/CoreFoundation/CFPlugIn.h
+c00000000530C8E260000000000000C4B
+t1393331750
+s3147
+
+N/Users/manu/Cocotron/cocotron_tds/CoreFoundation/CFPreferences.h
+c00000000530C8E260000000000000DA1
+t1393331750
+s3489
+
+N/Users/manu/Cocotron/cocotron_tds/CoreFoundation/CFPropertyList.h
+c00000000530C8E260000000000000977
+t1393331750
+s2423
+
+N/Users/manu/Cocotron/cocotron_tds/CoreFoundation/CFRunLoop.h
+c00000000530C8E260000000000001D6B
+t1393331750
+s7531
+
+N/Users/manu/Cocotron/cocotron_tds/CoreFoundation/CFSet.h
+c00000000530C8E260000000000000E41
+t1393331750
+s3649
+
+N/Users/manu/Cocotron/cocotron_tds/CoreFoundation/CFSocket.h
+c00000000530C8E260000000000001276
+t1393331750
+s4726
+
+N/Users/manu/Cocotron/cocotron_tds/CoreFoundation/CFStream.h
+c00000000530C8E260000000000001ED1
+t1393331750
+s7889
+
+N/Users/manu/Cocotron/cocotron_tds/CoreFoundation/CFString.h
+c00000000530C8E2600000000000028A3
+t1393331750
+s10403
+
+N/Users/manu/Cocotron/cocotron_tds/CoreFoundation/CFStringTokenizer.h
+c00000000530C8E2600000000000009B6
+t1393331750
+s2486
+
+N/Users/manu/Cocotron/cocotron_tds/CoreFoundation/CFTimeZone.h
+c00000000530C8E260000000000000D21
+t1393331750
+s3361
+
+N/Users/manu/Cocotron/cocotron_tds/CoreFoundation/CFTree.h
+c00000000530C8E260000000000000C3B
+t1393331750
+s3131
+
+N/Users/manu/Cocotron/cocotron_tds/CoreFoundation/CFURL.h
+c00000000530C8E260000000000001828
+t1393331750
+s6184
+
+N/Users/manu/Cocotron/cocotron_tds/CoreFoundation/CFUUID.h
+c00000000530C8E260000000000000A13
+t1393331750
+s2579
+
+N/Users/manu/Cocotron/cocotron_tds/CoreFoundation/CFUserNotification.h
+c00000000530C8E260000000000001326
+t1393331750
+s4902
+
+N/Users/manu/Cocotron/cocotron_tds/CoreFoundation/CFXMLNode.h
+c00000000530C8E260000000000000FAE
+t1393331750
+s4014
+
+N/Users/manu/Cocotron/cocotron_tds/CoreFoundation/CFXMLParser.h
+c00000000530C8E260000000000001554
+t1393331750
+s5460
+
+N/Users/manu/Cocotron/cocotron_tds/CoreFoundation/CoreFoundation.h
+c00000000530C8E260000000000000BAC
+t1393331750
+s2988
+
+N/Users/manu/Cocotron/cocotron_tds/CoreFoundation/English.lproj/InfoPlist.strings
+c00000000530C8E26000000000000005C
+t1393331750
+s92
+
+N/Users/manu/Cocotron/cocotron_tds/CoreFoundation/Info.plist
+c00000000530C8E260000000000000306
+t1393331750
+s774
+
+N/Users/manu/Cocotron/cocotron_tds/CoreFoundation/build/sym/Debug-i386-mingw32msvc/i386/CoreFoundation.framework
+t2
+s0
+
+N/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework
+t1393333184
+s170
+
+N/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFArray.h
+t1393333184
+s4406
+
+N/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFAttributedString.h
+t1393333184
+s4045
+
+N/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFBag.h
+t1393333184
+s3707
+
+N/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFBase.h
+t1393333184
+s8286
+
+N/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFBinaryHeap.h
+t1393333184
+s3701
+
+N/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFBitVector.h
+t1393333184
+s2187
+
+N/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFBundle.h
+t1393333184
+s7383
+
+N/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFByteOrder.h
+t1393333184
+s3760
+
+N/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFCalendar.h
+t1393333184
+s4143
+
+N/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFCharacterSet.h
+t1393333184
+s4285
+
+N/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFData.h
+t1393333184
+s2729
+
+N/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFDate.h
+t1393333184
+s3566
+
+N/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFDateFormatter.h
+t1393333184
+s3038
+
+N/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFDictionary.h
+t1393333184
+s4897
+
+N/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFError.h
+t1393333184
+s2628
+
+N/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFFileDescriptor.h
+t1393333184
+s2942
+
+N/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFLocale.h
+t1393333184
+s4413
+
+N/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFMachPort.h
+t1393333184
+s2882
+
+N/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFMessagePort.h
+t1393333184
+s3598
+
+N/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFNotificationCenter.h
+t1393333184
+s2699
+
+N/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFNumber.h
+t1393333184
+s2824
+
+N/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFNumberFormatter.h
+t1393333184
+s6547
+
+N/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFPlugIn.h
+t1393333184
+s3147
+
+N/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFPreferences.h
+t1393333184
+s3489
+
+N/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFPropertyList.h
+t1393333184
+s2423
+
+N/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFRunLoop.h
+t1393333184
+s7531
+
+N/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFSet.h
+t1393333184
+s3649
+
+N/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFSocket.h
+t1393333184
+s4726
+
+N/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFStream.h
+t1393333184
+s7889
+
+N/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFString.h
+t1393333184
+s10403
+
+N/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFStringTokenizer.h
+t1393333184
+s2486
+
+N/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFTimeZone.h
+t1393333184
+s3361
+
+N/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFTree.h
+t1393333184
+s3131
+
+N/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFURL.h
+t1393333184
+s6184
+
+N/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFUUID.h
+t1393333184
+s2579
+
+N/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFUserNotification.h
+t1393333184
+s4902
+
+N/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFXMLNode.h
+t1393333184
+s4014
+
+N/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFXMLParser.h
+t1393333184
+s5460
+
+N/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CoreFoundation.h
+t1393333184
+s2988
+
+N/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Resources/English.lproj/InfoPlist.strings
+t1393333184
+s92
+
+N/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Resources/Info.plist
+t1393333184
+s1109
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesba817e40cbbcb841^191b8240cbbcb841^---0#1#1#--18"Check dependencies36"51AEF523-CE13-4DA2-ACA1-E0FD98BCBB45-
+
+CCopyStringsFile /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s415025984.538695
+e415025984.539533
+r1
+xCopyStringsFile
+x/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection36"Copy English.lproj/InfoPlist.strings194"CopyStringsFile /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings39f18940cbbcb841^9f1f8a40cbbcb841^---0#0#1#-19%DVTDocumentLocation2@87"file:///Users/manu/Cocotron/cocotron_tds/CoreFoundation/English.lproj/InfoPlist.strings0000000000000000^506"CopyStringsFile /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings    cd /Users/manu/Cocotron/cocotron_tds/CoreFoundation    builtin-copyStrings --validate --inputencoding utf-16 --outputencoding UTF-16 --outdir /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Resources/English.lproj -- English.lproj/InfoPlist.strings36"410F495F-0E81-4BDE-BD62-5DFD10381A13-
+b86FD6327-4703-4A5C-A15F-A4CB72D44117
+
+CCpHeader CFArray.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFArray.h
+s415025984.521073
+e415025984.521955
+r1
+xCpHeader
+xCFArray.h
+x/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFArray.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection127"Copy /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFArray.h141"CpHeader CFArray.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFArray.h36768540cbbcb841^93ff8540cbbcb841^---0#0#1#-19%DVTDocumentLocation2@129"file:///Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFArray.h0034ecf7ddffdf42^608"CpHeader CFArray.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFArray.h    cd /Users/manu/Cocotron/cocotron_tds/CoreFoundation    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/manu/Cocotron/cocotron_tds/CoreFoundation/CFArray.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers36"69737E44-3D30-40D5-85A3-262B32E33FA3-
+b86FD6327-4703-4A5C-A15F-A4CB72D44117
+
+CCpHeader CFAttributedString.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFAttributedString.h
+s415025984.521554
+e415025984.523683
+r1
+xCpHeader
+xCFAttributedString.h
+x/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFAttributedString.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection138"Copy /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFAttributedString.h163"CpHeader CFAttributedString.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFAttributedString.h999d8540cbbcb841^fc348640cbbcb841^---0#0#1#-19%DVTDocumentLocation2@140"file:///Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFAttributedString.h0034ecf7ddffdf42^641"CpHeader CFAttributedString.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFAttributedString.h    cd /Users/manu/Cocotron/cocotron_tds/CoreFoundation    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/manu/Cocotron/cocotron_tds/CoreFoundation/CFAttributedString.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers36"E79D976D-F40C-4BE7-A4E8-78D98CD778FD-
+b86FD6327-4703-4A5C-A15F-A4CB72D44117
+
+CCpHeader CFBag.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFBag.h
+s415025984.521913
+e415025984.522858
+r1
+xCpHeader
+xCFBag.h
+x/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFBag.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection125"Copy /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFBag.h137"CpHeader CFBag.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFBag.hffb08540cbbcb841^dd248640cbbcb841^---0#0#1#-19%DVTDocumentLocation2@127"file:///Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFBag.h0034ecf7ddffdf42^602"CpHeader CFBag.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFBag.h    cd /Users/manu/Cocotron/cocotron_tds/CoreFoundation    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/manu/Cocotron/cocotron_tds/CoreFoundation/CFBag.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers36"09034D8F-BC26-40EE-9BB0-8CA13B6636FF-
+b86FD6327-4703-4A5C-A15F-A4CB72D44117
+
+CCpHeader CFBase.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFBase.h
+s415025984.517352
+e415025984.518489
+r1
+xCpHeader
+xCFBase.h
+x/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFBase.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection126"Copy /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFBase.h139"CpHeader CFBase.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFBase.ha4888440cbbcb841^feb98440cbbcb841^---0#0#1#-19%DVTDocumentLocation2@128"file:///Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFBase.h0034ecf7ddffdf42^605"CpHeader CFBase.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFBase.h    cd /Users/manu/Cocotron/cocotron_tds/CoreFoundation    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/manu/Cocotron/cocotron_tds/CoreFoundation/CFBase.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers36"3178382F-6690-4F49-AD91-D6DDAA3C7463-
+b86FD6327-4703-4A5C-A15F-A4CB72D44117
+
+CCpHeader CFBinaryHeap.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFBinaryHeap.h
+s415025984.523202
+e415025984.524514
+r1
+xCpHeader
+xCFBinaryHeap.h
+x/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFBinaryHeap.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection132"Copy /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFBinaryHeap.h151"CpHeader CFBinaryHeap.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFBinaryHeap.h041c8640cbbcb841^fd4f8640cbbcb841^---0#0#1#-19%DVTDocumentLocation2@134"file:///Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFBinaryHeap.h0034ecf7ddffdf42^623"CpHeader CFBinaryHeap.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFBinaryHeap.h    cd /Users/manu/Cocotron/cocotron_tds/CoreFoundation    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/manu/Cocotron/cocotron_tds/CoreFoundation/CFBinaryHeap.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers36"254C5002-6D69-41CF-9B6C-BC01527CE6A0-
+b86FD6327-4703-4A5C-A15F-A4CB72D44117
+
+CCpHeader CFBitVector.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFBitVector.h
+s415025984.523573
+e415025984.525761
+r1
+xCpHeader
+xCFBitVector.h
+x/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFBitVector.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection131"Copy /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFBitVector.h149"CpHeader CFBitVector.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFBitVector.hdc2c8640cbbcb841^1e6b8640cbbcb841^---0#0#1#-19%DVTDocumentLocation2@133"file:///Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFBitVector.h0034ecf7ddffdf42^620"CpHeader CFBitVector.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFBitVector.h    cd /Users/manu/Cocotron/cocotron_tds/CoreFoundation    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/manu/Cocotron/cocotron_tds/CoreFoundation/CFBitVector.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers36"A7923E5F-6D09-4AC7-A07D-BBC20E40A16D-
+b86FD6327-4703-4A5C-A15F-A4CB72D44117
+
+CCpHeader CFBundle.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFBundle.h
+s415025984.524330
+e415025984.526354
+r1
+xCpHeader
+xCFBundle.h
+x/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFBundle.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection128"Copy /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFBundle.h143"CpHeader CFBundle.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFBundle.h5f608640cbbcb841^7ec98640cbbcb841^---0#0#1#-19%DVTDocumentLocation2@130"file:///Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFBundle.h0034ecf7ddffdf42^611"CpHeader CFBundle.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFBundle.h    cd /Users/manu/Cocotron/cocotron_tds/CoreFoundation    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/manu/Cocotron/cocotron_tds/CoreFoundation/CFBundle.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers36"40001776-B763-4235-A0D7-4FEE0829EE56-
+b86FD6327-4703-4A5C-A15F-A4CB72D44117
+
+CCpHeader CFByteOrder.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFByteOrder.h
+s415025984.524822
+e415025984.526504
+r1
+xCpHeader
+xCFByteOrder.h
+x/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFByteOrder.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection131"Copy /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFByteOrder.h149"CpHeader CFByteOrder.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFByteOrder.he59a8640cbbcb841^eee98640cbbcb841^---0#0#1#-19%DVTDocumentLocation2@133"file:///Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFByteOrder.h0034ecf7ddffdf42^620"CpHeader CFByteOrder.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFByteOrder.h    cd /Users/manu/Cocotron/cocotron_tds/CoreFoundation    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/manu/Cocotron/cocotron_tds/CoreFoundation/CFByteOrder.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers36"4CE55FC3-376F-4609-B92E-F07693A15E6B-
+b86FD6327-4703-4A5C-A15F-A4CB72D44117
+
+CCpHeader CFCalendar.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFCalendar.h
+s415025984.525927
+e415025984.526994
+r1
+xCpHeader
+xCFCalendar.h
+x/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFCalendar.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection130"Copy /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFCalendar.h147"CpHeader CFCalendar.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFCalendar.h23bb8640cbbcb841^baf98640cbbcb841^---0#0#1#-19%DVTDocumentLocation2@132"file:///Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFCalendar.h0034ecf7ddffdf42^617"CpHeader CFCalendar.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFCalendar.h    cd /Users/manu/Cocotron/cocotron_tds/CoreFoundation    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/manu/Cocotron/cocotron_tds/CoreFoundation/CFCalendar.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers36"E0E2B92B-BBD3-4EE0-B597-0CFDC8606D25-
+b86FD6327-4703-4A5C-A15F-A4CB72D44117
+
+CCpHeader CFCharacterSet.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFCharacterSet.h
+s415025984.526423
+e415025984.527493
+r1
+xCpHeader
+xCFCharacterSet.h
+x/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFCharacterSet.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection134"Copy /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFCharacterSet.h155"CpHeader CFCharacterSet.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFCharacterSet.hd7df8640cbbcb841^390b8740cbbcb841^---0#0#1#-19%DVTDocumentLocation2@136"file:///Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFCharacterSet.h0034ecf7ddffdf42^629"CpHeader CFCharacterSet.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFCharacterSet.h    cd /Users/manu/Cocotron/cocotron_tds/CoreFoundation    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/manu/Cocotron/cocotron_tds/CoreFoundation/CFCharacterSet.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers36"A57F1570-FDEC-421E-BE97-3C20AF3DBF8E-
+b86FD6327-4703-4A5C-A15F-A4CB72D44117
+
+CCpHeader CFData.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFData.h
+s415025984.526883
+e415025984.527965
+r1
+xCpHeader
+xCFData.h
+x/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFData.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection126"Copy /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFData.h139"CpHeader CFData.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFData.hcaf98640cbbcb841^392a8740cbbcb841^---0#0#1#-19%DVTDocumentLocation2@128"file:///Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFData.h0034ecf7ddffdf42^605"CpHeader CFData.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFData.h    cd /Users/manu/Cocotron/cocotron_tds/CoreFoundation    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/manu/Cocotron/cocotron_tds/CoreFoundation/CFData.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers36"53269608-A1F4-4084-BCB4-F2BD39C4CAFE-
+b86FD6327-4703-4A5C-A15F-A4CB72D44117
+
+CCpHeader CFDate.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFDate.h
+s415025984.527426
+e415025984.528390
+r1
+xCpHeader
+xCFDate.h
+x/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFDate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection126"Copy /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFDate.h139"CpHeader CFDate.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFDate.h581b8740cbbcb841^e9438740cbbcb841^---0#0#1#-19%DVTDocumentLocation2@128"file:///Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFDate.h0034ecf7ddffdf42^605"CpHeader CFDate.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFDate.h    cd /Users/manu/Cocotron/cocotron_tds/CoreFoundation    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/manu/Cocotron/cocotron_tds/CoreFoundation/CFDate.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers36"8972D1BB-D0E4-41ED-9149-CB493FB40347-
+b86FD6327-4703-4A5C-A15F-A4CB72D44117
+
+CCpHeader CFDateFormatter.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFDateFormatter.h
+s415025984.527909
+e415025984.529679
+r1
+xCpHeader
+xCFDateFormatter.h
+x/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFDateFormatter.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection135"Copy /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFDateFormatter.h157"CpHeader CFDateFormatter.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFDateFormatter.hb4388740cbbcb841^069e8740cbbcb841^---0#0#1#-19%DVTDocumentLocation2@137"file:///Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFDateFormatter.h0034ecf7ddffdf42^632"CpHeader CFDateFormatter.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFDateFormatter.h    cd /Users/manu/Cocotron/cocotron_tds/CoreFoundation    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/manu/Cocotron/cocotron_tds/CoreFoundation/CFDateFormatter.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers36"1ECC0FDC-EE4D-47A4-9416-63F13D87AB8F-
+b86FD6327-4703-4A5C-A15F-A4CB72D44117
+
+CCpHeader CFDictionary.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFDictionary.h
+s415025984.528318
+e415025984.529405
+r1
+xCpHeader
+xCFDictionary.h
+x/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFDictionary.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection132"Copy /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFDictionary.h151"CpHeader CFDictionary.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFDictionary.h4c548740cbbcb841^be878740cbbcb841^---0#0#1#-19%DVTDocumentLocation2@134"file:///Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFDictionary.h0034ecf7ddffdf42^623"CpHeader CFDictionary.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFDictionary.h    cd /Users/manu/Cocotron/cocotron_tds/CoreFoundation    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/manu/Cocotron/cocotron_tds/CoreFoundation/CFDictionary.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers36"C11357A9-8C8F-4A90-84B8-179DA1FC7F8E-
+b86FD6327-4703-4A5C-A15F-A4CB72D44117
+
+CCpHeader CFError.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFError.h
+s415025984.529721
+e415025984.530810
+r1
+xCpHeader
+xCFError.h
+x/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFError.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection127"Copy /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFError.h141"CpHeader CFError.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFError.h68b28740cbbcb841^cde48740cbbcb841^---0#0#1#-19%DVTDocumentLocation2@129"file:///Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFError.h0034ecf7ddffdf42^608"CpHeader CFError.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFError.h    cd /Users/manu/Cocotron/cocotron_tds/CoreFoundation    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/manu/Cocotron/cocotron_tds/CoreFoundation/CFError.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers36"E98BF5DC-59DB-4137-8EE6-DCB41AD1E09F-
+b86FD6327-4703-4A5C-A15F-A4CB72D44117
+
+CCpHeader CFFileDescriptor.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFFileDescriptor.h
+s415025984.530133
+e415025984.531012
+r1
+xCpHeader
+xCFFileDescriptor.h
+x/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFFileDescriptor.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection136"Copy /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFFileDescriptor.h159"CpHeader CFFileDescriptor.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFFileDescriptor.hc5c78740cbbcb841^bbf08740cbbcb841^---0#0#1#-19%DVTDocumentLocation2@138"file:///Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFFileDescriptor.h0034ecf7ddffdf42^635"CpHeader CFFileDescriptor.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFFileDescriptor.h    cd /Users/manu/Cocotron/cocotron_tds/CoreFoundation    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/manu/Cocotron/cocotron_tds/CoreFoundation/CFFileDescriptor.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers36"95191267-EC0C-4C5D-8351-203D04200425-
+b86FD6327-4703-4A5C-A15F-A4CB72D44117
+
+CCpHeader CFLocale.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFLocale.h
+s415025984.517694
+e415025984.518700
+r1
+xCpHeader
+xCFLocale.h
+x/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFLocale.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection128"Copy /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFLocale.h143"CpHeader CFLocale.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFLocale.h529b8440cbbcb841^50c68440cbbcb841^---0#0#1#-19%DVTDocumentLocation2@130"file:///Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFLocale.h0034ecf7ddffdf42^611"CpHeader CFLocale.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFLocale.h    cd /Users/manu/Cocotron/cocotron_tds/CoreFoundation    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/manu/Cocotron/cocotron_tds/CoreFoundation/CFLocale.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers36"E2D845B0-1BD2-4260-9AE8-12EAFF77B28E-
+b86FD6327-4703-4A5C-A15F-A4CB72D44117
+
+CCpHeader CFMachPort.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFMachPort.h
+s415025984.530425
+e415025984.531561
+r1
+xCpHeader
+xCFMachPort.h
+x/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFMachPort.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection130"Copy /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFMachPort.h147"CpHeader CFMachPort.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFMachPort.h36e48740cbbcb841^f9148840cbbcb841^---0#0#1#-19%DVTDocumentLocation2@132"file:///Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFMachPort.h0034ecf7ddffdf42^617"CpHeader CFMachPort.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFMachPort.h    cd /Users/manu/Cocotron/cocotron_tds/CoreFoundation    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/manu/Cocotron/cocotron_tds/CoreFoundation/CFMachPort.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers36"C5BFE038-142D-4472-95FD-98AB0B33DC90-
+b86FD6327-4703-4A5C-A15F-A4CB72D44117
+
+CCpHeader CFMessagePort.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFMessagePort.h
+s415025984.530795
+e415025984.531829
+r1
+xCpHeader
+xCFMessagePort.h
+x/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFMessagePort.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection133"Copy /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFMessagePort.h153"CpHeader CFMessagePort.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFMessagePort.hdffb8740cbbcb841^35268840cbbcb841^---0#0#1#-19%DVTDocumentLocation2@135"file:///Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFMessagePort.h0034ecf7ddffdf42^626"CpHeader CFMessagePort.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFMessagePort.h    cd /Users/manu/Cocotron/cocotron_tds/CoreFoundation    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/manu/Cocotron/cocotron_tds/CoreFoundation/CFMessagePort.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers36"66EB365B-E28D-42E2-984D-5CF670A2FF3F-
+b86FD6327-4703-4A5C-A15F-A4CB72D44117
+
+CCpHeader CFNotificationCenter.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFNotificationCenter.h
+s415025984.531257
+e415025984.532107
+r1
+xCpHeader
+xCFNotificationCenter.h
+x/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFNotificationCenter.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection140"Copy /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFNotificationCenter.h167"CpHeader CFNotificationCenter.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFNotificationCenter.hc3118840cbbcb841^c93e8840cbbcb841^---0#0#1#-19%DVTDocumentLocation2@142"file:///Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFNotificationCenter.h0034ecf7ddffdf42^647"CpHeader CFNotificationCenter.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFNotificationCenter.h    cd /Users/manu/Cocotron/cocotron_tds/CoreFoundation    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/manu/Cocotron/cocotron_tds/CoreFoundation/CFNotificationCenter.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers36"ACC59F38-C8BC-4ECE-AD19-CA6FB055E9B1-
+b86FD6327-4703-4A5C-A15F-A4CB72D44117
+
+CCpHeader CFNumber.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFNumber.h
+s415025984.518023
+e415025984.520224
+r1
+xCpHeader
+xCFNumber.h
+x/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFNumber.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection128"Copy /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFNumber.h143"CpHeader CFNumber.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFNumber.h36b18440cbbcb841^f88b8540cbbcb841^---0#0#1#-19%DVTDocumentLocation2@130"file:///Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFNumber.h0034ecf7ddffdf42^611"CpHeader CFNumber.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFNumber.h    cd /Users/manu/Cocotron/cocotron_tds/CoreFoundation    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/manu/Cocotron/cocotron_tds/CoreFoundation/CFNumber.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers36"086BF7B3-9406-4D80-A89D-427A2BF22BF8-
+b86FD6327-4703-4A5C-A15F-A4CB72D44117
+
+CCpHeader CFNumberFormatter.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFNumberFormatter.h
+s415025984.518431
+e415025984.520588
+r1
+xCpHeader
+xCFNumberFormatter.h
+x/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFNumberFormatter.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection137"Copy /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFNumberFormatter.h161"CpHeader CFNumberFormatter.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFNumberFormatter.he6ce8440cbbcb841^a5a28540cbbcb841^---0#0#1#-19%DVTDocumentLocation2@139"file:///Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFNumberFormatter.h0034ecf7ddffdf42^638"CpHeader CFNumberFormatter.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFNumberFormatter.h    cd /Users/manu/Cocotron/cocotron_tds/CoreFoundation    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/manu/Cocotron/cocotron_tds/CoreFoundation/CFNumberFormatter.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers36"33353AEF-63CF-4E5B-8B8F-7BB1538F70FA-
+b86FD6327-4703-4A5C-A15F-A4CB72D44117
+
+CCpHeader CFPlugIn.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFPlugIn.h
+s415025984.531687
+e415025984.532789
+r1
+xCpHeader
+xCFPlugIn.h
+x/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFPlugIn.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection128"Copy /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFPlugIn.h143"CpHeader CFPlugIn.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFPlugIn.h93378840cbbcb841^ed648840cbbcb841^---0#0#1#-19%DVTDocumentLocation2@130"file:///Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFPlugIn.h0034ecf7ddffdf42^611"CpHeader CFPlugIn.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFPlugIn.h    cd /Users/manu/Cocotron/cocotron_tds/CoreFoundation    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/manu/Cocotron/cocotron_tds/CoreFoundation/CFPlugIn.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers36"9FA8CE11-30F5-459B-971A-79FD75445373-
+b86FD6327-4703-4A5C-A15F-A4CB72D44117
+
+CCpHeader CFPreferences.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFPreferences.h
+s415025984.532077
+e415025984.533031
+r1
+xCpHeader
+xCFPreferences.h
+x/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFPreferences.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection133"Copy /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFPreferences.h153"CpHeader CFPreferences.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFPreferences.h124d8840cbbcb841^f17e8840cbbcb841^---0#0#1#-19%DVTDocumentLocation2@135"file:///Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFPreferences.h0034ecf7ddffdf42^626"CpHeader CFPreferences.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFPreferences.h    cd /Users/manu/Cocotron/cocotron_tds/CoreFoundation    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/manu/Cocotron/cocotron_tds/CoreFoundation/CFPreferences.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers36"CB6CCFDF-43BE-420B-BA74-9E3C913BBCA5-
+b86FD6327-4703-4A5C-A15F-A4CB72D44117
+
+CCpHeader CFPropertyList.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFPropertyList.h
+s415025984.532429
+e415025984.533680
+r1
+xCpHeader
+xCFPropertyList.h
+x/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFPropertyList.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection134"Copy /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFPropertyList.h155"CpHeader CFPropertyList.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFPropertyList.hc3628840cbbcb841^ff968840cbbcb841^---0#0#1#-19%DVTDocumentLocation2@136"file:///Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFPropertyList.h0034ecf7ddffdf42^629"CpHeader CFPropertyList.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFPropertyList.h    cd /Users/manu/Cocotron/cocotron_tds/CoreFoundation    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/manu/Cocotron/cocotron_tds/CoreFoundation/CFPropertyList.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers36"925EAF36-E4BB-4907-B0ED-48FD9F0301F2-
+b86FD6327-4703-4A5C-A15F-A4CB72D44117
+
+CCpHeader CFRunLoop.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFRunLoop.h
+s415025984.532807
+e415025984.533946
+r1
+xCpHeader
+xCFRunLoop.h
+x/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFRunLoop.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection129"Copy /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFRunLoop.h145"CpHeader CFRunLoop.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFRunLoop.h397e8840cbbcb841^79b18840cbbcb841^---0#0#1#-19%DVTDocumentLocation2@131"file:///Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFRunLoop.h0034ecf7ddffdf42^614"CpHeader CFRunLoop.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFRunLoop.h    cd /Users/manu/Cocotron/cocotron_tds/CoreFoundation    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/manu/Cocotron/cocotron_tds/CoreFoundation/CFRunLoop.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers36"8D3DCA88-6A46-4AF2-BA18-CBFD4992ACFD-
+b86FD6327-4703-4A5C-A15F-A4CB72D44117
+
+CCpHeader CFSet.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFSet.h
+s415025984.533223
+e415025984.534740
+r1
+xCpHeader
+xCFSet.h
+x/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFSet.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection125"Copy /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFSet.h137"CpHeader CFSet.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFSet.h70b38840cbbcb841^fce08840cbbcb841^---0#0#1#-19%DVTDocumentLocation2@127"file:///Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFSet.h0034ecf7ddffdf42^602"CpHeader CFSet.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFSet.h    cd /Users/manu/Cocotron/cocotron_tds/CoreFoundation    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/manu/Cocotron/cocotron_tds/CoreFoundation/CFSet.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers36"A2795CA4-2A36-4AC3-9AAE-D553417B8FF4-
+b86FD6327-4703-4A5C-A15F-A4CB72D44117
+
+CCpHeader CFSocket.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFSocket.h
+s415025984.534000
+e415025984.534974
+r1
+xCpHeader
+xCFSocket.h
+x/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFSocket.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection128"Copy /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFSocket.h143"CpHeader CFSocket.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFSocket.h75cd8840cbbcb841^77f38840cbbcb841^---0#0#1#-19%DVTDocumentLocation2@130"file:///Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFSocket.h0034ecf7ddffdf42^611"CpHeader CFSocket.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFSocket.h    cd /Users/manu/Cocotron/cocotron_tds/CoreFoundation    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/manu/Cocotron/cocotron_tds/CoreFoundation/CFSocket.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers36"816FF994-AB9F-4B02-93A8-2E0C5A5B0416-
+b86FD6327-4703-4A5C-A15F-A4CB72D44117
+
+CCpHeader CFStream.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFStream.h
+s415025984.534323
+e415025984.535356
+r1
+xCpHeader
+xCFStream.h
+x/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFStream.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection128"Copy /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFStream.h143"CpHeader CFStream.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFStream.hb5e18840cbbcb841^6f108940cbbcb841^---0#0#1#-19%DVTDocumentLocation2@130"file:///Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFStream.h0034ecf7ddffdf42^611"CpHeader CFStream.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFStream.h    cd /Users/manu/Cocotron/cocotron_tds/CoreFoundation    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/manu/Cocotron/cocotron_tds/CoreFoundation/CFStream.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers36"C7044718-7E0D-4FE0-B6D7-A4B551331321-
+b86FD6327-4703-4A5C-A15F-A4CB72D44117
+
+CCpHeader CFString.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFString.h
+s415025984.518863
+e415025984.519874
+r1
+xCpHeader
+xCFString.h
+x/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFString.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection128"Copy /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFString.h143"CpHeader CFString.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFString.h45f38440cbbcb841^dc7e8540cbbcb841^---0#0#1#-19%DVTDocumentLocation2@130"file:///Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFString.h0034ecf7ddffdf42^611"CpHeader CFString.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFString.h    cd /Users/manu/Cocotron/cocotron_tds/CoreFoundation    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/manu/Cocotron/cocotron_tds/CoreFoundation/CFString.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers36"E12FA8E6-59F4-4422-9193-7405E16DD4FB-
+b86FD6327-4703-4A5C-A15F-A4CB72D44117
+
+CCpHeader CFStringTokenizer.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFStringTokenizer.h
+s415025984.534705
+e415025984.535630
+r1
+xCpHeader
+xCFStringTokenizer.h
+x/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFStringTokenizer.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection137"Copy /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFStringTokenizer.h161"CpHeader CFStringTokenizer.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFStringTokenizer.hdcf38840cbbcb841^c51f8940cbbcb841^---0#0#1#-19%DVTDocumentLocation2@139"file:///Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFStringTokenizer.h0034ecf7ddffdf42^638"CpHeader CFStringTokenizer.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFStringTokenizer.h    cd /Users/manu/Cocotron/cocotron_tds/CoreFoundation    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/manu/Cocotron/cocotron_tds/CoreFoundation/CFStringTokenizer.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers36"B163D891-655D-4A24-ABF5-A9F3357C8E31-
+b86FD6327-4703-4A5C-A15F-A4CB72D44117
+
+CCpHeader CFTimeZone.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFTimeZone.h
+s415025984.535268
+e415025984.536290
+r1
+xCpHeader
+xCFTimeZone.h
+x/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFTimeZone.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection130"Copy /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFTimeZone.h147"CpHeader CFTimeZone.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFTimeZone.h2d238940cbbcb841^514d8940cbbcb841^---0#0#1#-19%DVTDocumentLocation2@132"file:///Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFTimeZone.h0034ecf7ddffdf42^617"CpHeader CFTimeZone.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFTimeZone.h    cd /Users/manu/Cocotron/cocotron_tds/CoreFoundation    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/manu/Cocotron/cocotron_tds/CoreFoundation/CFTimeZone.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers36"08379BD2-1D44-4384-9F0D-0288AAD2F264-
+b86FD6327-4703-4A5C-A15F-A4CB72D44117
+
+CCpHeader CFTree.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFTree.h
+s415025984.535678
+e415025984.536480
+r1
+xCpHeader
+xCFTree.h
+x/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFTree.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection126"Copy /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFTree.h139"CpHeader CFTree.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFTree.h94328940cbbcb841^64588940cbbcb841^---0#0#1#-19%DVTDocumentLocation2@128"file:///Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFTree.h0034ecf7ddffdf42^605"CpHeader CFTree.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFTree.h    cd /Users/manu/Cocotron/cocotron_tds/CoreFoundation    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/manu/Cocotron/cocotron_tds/CoreFoundation/CFTree.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers36"C7A77F98-4D87-48C5-9E7E-41515EFB6373-
+b86FD6327-4703-4A5C-A15F-A4CB72D44117
+
+CCpHeader CFURL.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFURL.h
+s415025984.536029
+e415025984.536913
+r1
+xCpHeader
+xCFURL.h
+x/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFURL.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection125"Copy /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFURL.h137"CpHeader CFURL.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFURL.h234c8940cbbcb841^1d748940cbbcb841^---0#0#1#-19%DVTDocumentLocation2@127"file:///Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFURL.h0034ecf7ddffdf42^602"CpHeader CFURL.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFURL.h    cd /Users/manu/Cocotron/cocotron_tds/CoreFoundation    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/manu/Cocotron/cocotron_tds/CoreFoundation/CFURL.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers36"AEFB84DA-7609-48EC-9EB5-41152F29B046-
+b86FD6327-4703-4A5C-A15F-A4CB72D44117
+
+CCpHeader CFUUID.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFUUID.h
+s415025984.536854
+e415025984.537688
+r1
+xCpHeader
+xCFUUID.h
+x/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFUUID.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection126"Copy /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFUUID.h139"CpHeader CFUUID.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFUUID.hbf818940cbbcb841^93a68940cbbcb841^---0#0#1#-19%DVTDocumentLocation2@128"file:///Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFUUID.h0034ecf7ddffdf42^605"CpHeader CFUUID.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFUUID.h    cd /Users/manu/Cocotron/cocotron_tds/CoreFoundation    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/manu/Cocotron/cocotron_tds/CoreFoundation/CFUUID.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers36"4CA66E53-2ACD-4A26-B6F6-A8C8A05DD2EF-
+b86FD6327-4703-4A5C-A15F-A4CB72D44117
+
+CCpHeader CFUserNotification.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFUserNotification.h
+s415025984.536457
+e415025984.537291
+r1
+xCpHeader
+xCFUserNotification.h
+x/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFUserNotification.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection138"Copy /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFUserNotification.h163"CpHeader CFUserNotification.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFUserNotification.h51688940cbbcb841^2a8c8940cbbcb841^---0#0#1#-19%DVTDocumentLocation2@140"file:///Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFUserNotification.h0034ecf7ddffdf42^641"CpHeader CFUserNotification.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFUserNotification.h    cd /Users/manu/Cocotron/cocotron_tds/CoreFoundation    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/manu/Cocotron/cocotron_tds/CoreFoundation/CFUserNotification.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers36"0AD6867C-E311-463E-AFB9-8E72EC891F5E-
+b86FD6327-4703-4A5C-A15F-A4CB72D44117
+
+CCpHeader CFXMLNode.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFXMLNode.h
+s415025984.537198
+e415025984.538058
+r1
+xCpHeader
+xCFXMLNode.h
+x/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFXMLNode.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection129"Copy /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFXMLNode.h145"CpHeader CFXMLNode.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFXMLNode.hf6978940cbbcb841^66c08940cbbcb841^---0#0#1#-19%DVTDocumentLocation2@131"file:///Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFXMLNode.h0034ecf7ddffdf42^614"CpHeader CFXMLNode.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFXMLNode.h    cd /Users/manu/Cocotron/cocotron_tds/CoreFoundation    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/manu/Cocotron/cocotron_tds/CoreFoundation/CFXMLNode.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers36"F4033980-984B-468A-9B78-207647C8586F-
+b86FD6327-4703-4A5C-A15F-A4CB72D44117
+
+CCpHeader CFXMLParser.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFXMLParser.h
+s415025984.537540
+e415025984.538321
+r1
+xCpHeader
+xCFXMLParser.h
+x/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFXMLParser.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection131"Copy /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFXMLParser.h149"CpHeader CFXMLParser.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFXMLParser.h19ab8940cbbcb841^0bd18940cbbcb841^---0#0#1#-19%DVTDocumentLocation2@133"file:///Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFXMLParser.h0034ecf7ddffdf42^620"CpHeader CFXMLParser.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFXMLParser.h    cd /Users/manu/Cocotron/cocotron_tds/CoreFoundation    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/manu/Cocotron/cocotron_tds/CoreFoundation/CFXMLParser.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers36"B2B43706-BA9F-4637-93BF-D64F591596F0-
+b86FD6327-4703-4A5C-A15F-A4CB72D44117
+
+CCpHeader CoreFoundation.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CoreFoundation.h
+s415025984.520514
+e415025984.521528
+r1
+xCpHeader
+xCoreFoundation.h
+x/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CoreFoundation.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection134"Copy /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CoreFoundation.h155"CpHeader CoreFoundation.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CoreFoundation.h97588540cbbcb841^07ed8540cbbcb841^---0#0#1#-19%DVTDocumentLocation2@136"file:///Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CoreFoundation.h0034ecf7ddffdf42^629"CpHeader CoreFoundation.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers/CoreFoundation.h    cd /Users/manu/Cocotron/cocotron_tds/CoreFoundation    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/manu/Cocotron/cocotron_tds/CoreFoundation/CoreFoundation.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Headers36"A9139CC8-6035-47D6-B73C-F812C9C19162-
+b86FD6327-4703-4A5C-A15F-A4CB72D44117
+
+CProcessInfoPlistFile /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Resources/Info.plist /Users/manu/Cocotron/cocotron_tds/CoreFoundation/Info.plist
+s415025984.509612
+e415025984.511011
+r1
+xProcessInfoPlistFile
+x/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Resources/Info.plist
+x/Users/manu/Cocotron/cocotron_tds/CoreFoundation/Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Process /Users/manu/Cocotron/cocotron_tds/CoreFoundation/Info.plist157"ProcessInfoPlistFile /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Resources/Info.plist Info.plistb2838240cbbcb841^46d28240cbbcb841^---0#0#1#-19%DVTDocumentLocation2@66"file:///Users/manu/Cocotron/cocotron_tds/CoreFoundation/Info.plist0000000000000000^470"ProcessInfoPlistFile /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Resources/Info.plist Info.plist    cd /Users/manu/Cocotron/cocotron_tds/CoreFoundation    builtin-infoPlistUtility /Users/manu/Cocotron/cocotron_tds/CoreFoundation/Info.plist -expandbuildsettings -platform macosx -o /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework/Versions/A/Resources/Info.plist36"EA1E44C0-BCEA-4B8C-988A-3096D4C3F427-
+b86FD6327-4703-4A5C-A15F-A4CB72D44117
+
+CSymLink /Users/manu/Cocotron/cocotron_tds/CoreFoundation/build/sym/Debug-i386-mingw32msvc/i386/CoreFoundation.framework /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework
+s415025984.511593
+e415025984.516928
+r1
+xSymLink
+x/Users/manu/Cocotron/cocotron_tds/CoreFoundation/build/sym/Debug-i386-mingw32msvc/i386/CoreFoundation.framework
+x/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection119"Process /Users/manu/Cocotron/cocotron_tds/CoreFoundation/build/sym/Debug-i386-mingw32msvc/i386/CoreFoundation.framework164"SymLink build/sym/Debug-i386-mingw32msvc/i386/CoreFoundation.framework /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework66108340cbbcb841^64748440cbbcb841^---0#0#1#--443"SymLink build/sym/Debug-i386-mingw32msvc/i386/CoreFoundation.framework /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework    cd /Users/manu/Cocotron/cocotron_tds/CoreFoundation    /bin/ln -sf /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework /Users/manu/Cocotron/cocotron_tds/CoreFoundation/build/sym/Debug-i386-mingw32msvc/i386/CoreFoundation.framework36"AF90D060-4176-4AE3-B2F6-1F8490E74B05-
+b86FD6327-4703-4A5C-A15F-A4CB72D44117
+
+CTouch /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreFoundation.framework
+r0
+
