@@ -9,9 +9,11 @@ Only Foundation was configured. In order to use AppKit etc. add/change the follo
 settings:
 
 OS X Deployment Target —> Compiler Default
+
 Compiler for C/C++/Objective-C —> Cocotron (GCC 4.3.1)
 
 OTHER_C_FLAGS —> -DWINDOWS
+
 Path to Linker Dependency Info File —> Remove
 
 NOTE:
