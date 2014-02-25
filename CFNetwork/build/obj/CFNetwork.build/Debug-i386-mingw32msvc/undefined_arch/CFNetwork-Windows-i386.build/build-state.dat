@@ -1,152 +1,0 @@
-TCFNetwork-Windows-i386
-v6
-r1
-cCheck dependencies
-cProcessInfoPlistFile /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CFNetwork.framework/Versions/A/Resources/Info.plist /Users/manu/Cocotron/cocotron_tds/CFNetwork/Info.plist
-cSymLink /Users/manu/Cocotron/cocotron_tds/CFNetwork/build/sym/Debug-i386-mingw32msvc/i386/CFNetwork.framework /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CFNetwork.framework
-cCpHeader CFNetwork.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CFNetwork.framework/Versions/A/Headers/CFNetwork.h
-cCpHeader CFSocketStream.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CFNetwork.framework/Versions/A/Headers/CFSocketStream.h
-cCpHeader CFNetServices.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CFNetwork.framework/Versions/A/Headers/CFNetServices.h
-cCpHeader CFHost.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CFNetwork.framework/Versions/A/Headers/CFHost.h
-cCpHeader CFNetworkExport.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CFNetwork.framework/Versions/A/Headers/CFNetworkExport.h
-cTouch /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CFNetwork.framework
-
-N/Users/manu/Cocotron/cocotron_tds/CFNetwork/CFHost.h
-c00000000530C8E2600000000000006ED
-t1393331750
-s1773
-
-N/Users/manu/Cocotron/cocotron_tds/CFNetwork/CFNetServices.h
-c00000000530C8E26000000000000004E
-t1393331750
-s78
-
-N/Users/manu/Cocotron/cocotron_tds/CFNetwork/CFNetwork.h
-c00000000530C8E260000000000000066
-t1393331750
-s102
-
-N/Users/manu/Cocotron/cocotron_tds/CFNetwork/CFNetworkExport.h
-c00000000530C8E2600000000000002B6
-t1393331750
-s694
-
-N/Users/manu/Cocotron/cocotron_tds/CFNetwork/CFSocketStream.h
-c00000000530C8E260000000000000EC6
-t1393331750
-s3782
-
-N/Users/manu/Cocotron/cocotron_tds/CFNetwork/Info.plist
-c00000000530C8E26000000000000033C
-t1393331750
-s828
-
-N/Users/manu/Cocotron/cocotron_tds/CFNetwork/build/sym/Debug-i386-mingw32msvc/i386/CFNetwork.framework
-t2
-s0
-
-N/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CFNetwork.framework
-t1393333184
-s170
-
-N/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CFNetwork.framework/Versions/A/Headers/CFHost.h
-t1393333184
-s1773
-
-N/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CFNetwork.framework/Versions/A/Headers/CFNetServices.h
-t1393333184
-s78
-
-N/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CFNetwork.framework/Versions/A/Headers/CFNetwork.h
-t1393333184
-s102
-
-N/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CFNetwork.framework/Versions/A/Headers/CFNetworkExport.h
-t1393333184
-s694
-
-N/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CFNetwork.framework/Versions/A/Headers/CFSocketStream.h
-t1393333184
-s3782
-
-N/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CFNetwork.framework/Versions/A/Resources/Info.plist
-t1393333184
-s1153
-
-CCheck dependencies
-r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciescac37a40cbbcb841^48de7d40cbbcb841^---0#1#1#--18"Check dependencies36"8DAB081A-CAF5-40B3-B4B4-D21D6A7657BF-
-
-CCpHeader CFHost.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CFNetwork.framework/Versions/A/Headers/CFHost.h
-s415025984.496100
-e415025984.497239
-r1
-xCpHeader
-xCFHost.h
-x/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CFNetwork.framework/Versions/A/Headers/CFHost.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection121"Copy /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CFNetwork.framework/Versions/A/Headers/CFHost.h134"CpHeader CFHost.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CFNetwork.framework/Versions/A/Headers/CFHost.h01187f40cbbcb841^14977f40cbbcb841^---0#0#1#-19%DVTDocumentLocation2@123"file:///Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CFNetwork.framework/Versions/A/Headers/CFHost.h0034ecf7ddffdf42^585"CpHeader CFHost.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CFNetwork.framework/Versions/A/Headers/CFHost.h    cd /Users/manu/Cocotron/cocotron_tds/CFNetwork    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/manu/Cocotron/cocotron_tds/CFNetwork/CFHost.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CFNetwork.framework/Versions/A/Headers36"A7A4646A-EC16-4292-BAD6-43D72A7D9497-
-b38629F83-34F2-445A-9140-CB0554B9EA74
-
-CCpHeader CFNetServices.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CFNetwork.framework/Versions/A/Headers/CFNetServices.h
-s415025984.495523
-e415025984.497159
-r1
-xCpHeader
-xCFNetServices.h
-x/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CFNetwork.framework/Versions/A/Headers/CFNetServices.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection128"Copy /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CFNetwork.framework/Versions/A/Headers/CFNetServices.h148"CpHeader CFNetServices.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CFNetwork.framework/Versions/A/Headers/CFNetServices.hf5f37e40cbbcb841^fb907f40cbbcb841^---0#0#1#-19%DVTDocumentLocation2@130"file:///Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CFNetwork.framework/Versions/A/Headers/CFNetServices.h0034ecf7ddffdf42^606"CpHeader CFNetServices.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CFNetwork.framework/Versions/A/Headers/CFNetServices.h    cd /Users/manu/Cocotron/cocotron_tds/CFNetwork    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/manu/Cocotron/cocotron_tds/CFNetwork/CFNetServices.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CFNetwork.framework/Versions/A/Headers36"A94CF9CA-3D88-4C8D-87D6-B377CC0987D9-
-b38629F83-34F2-445A-9140-CB0554B9EA74
-
-CCpHeader CFNetwork.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CFNetwork.framework/Versions/A/Headers/CFNetwork.h
-s415025984.494506
-e415025984.495629
-r1
-xCpHeader
-xCFNetwork.h
-x/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CFNetwork.framework/Versions/A/Headers/CFNetwork.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection124"Copy /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CFNetwork.framework/Versions/A/Headers/CFNetwork.h140"CpHeader CFNetwork.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CFNetwork.framework/Versions/A/Headers/CFNetwork.hf3aa7e40cbbcb841^46277f40cbbcb841^---0#0#1#-19%DVTDocumentLocation2@126"file:///Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CFNetwork.framework/Versions/A/Headers/CFNetwork.h0034ecf7ddffdf42^594"CpHeader CFNetwork.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CFNetwork.framework/Versions/A/Headers/CFNetwork.h    cd /Users/manu/Cocotron/cocotron_tds/CFNetwork    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/manu/Cocotron/cocotron_tds/CFNetwork/CFNetwork.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CFNetwork.framework/Versions/A/Headers36"FB1187C6-D65A-4055-B6D1-3295D9C5A912-
-b38629F83-34F2-445A-9140-CB0554B9EA74
-
-CCpHeader CFNetworkExport.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CFNetwork.framework/Versions/A/Headers/CFNetworkExport.h
-s415025984.496671
-e415025984.497707
-r1
-xCpHeader
-xCFNetworkExport.h
-x/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CFNetwork.framework/Versions/A/Headers/CFNetworkExport.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection130"Copy /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CFNetwork.framework/Versions/A/Headers/CFNetworkExport.h152"CpHeader CFNetworkExport.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CFNetwork.framework/Versions/A/Headers/CFNetworkExport.h253e7f40cbbcb841^68e87f40cbbcb841^---0#0#1#-19%DVTDocumentLocation2@132"file:///Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CFNetwork.framework/Versions/A/Headers/CFNetworkExport.h0034ecf7ddffdf42^612"CpHeader CFNetworkExport.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CFNetwork.framework/Versions/A/Headers/CFNetworkExport.h    cd /Users/manu/Cocotron/cocotron_tds/CFNetwork    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/manu/Cocotron/cocotron_tds/CFNetwork/CFNetworkExport.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CFNetwork.framework/Versions/A/Headers36"253518CE-8C6E-476E-AF1F-4A397BC0E550-
-b38629F83-34F2-445A-9140-CB0554B9EA74
-
-CCpHeader CFSocketStream.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CFNetwork.framework/Versions/A/Headers/CFSocketStream.h
-s415025984.494877
-e415025984.496110
-r1
-xCpHeader
-xCFSocketStream.h
-x/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CFNetwork.framework/Versions/A/Headers/CFSocketStream.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection129"Copy /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CFNetwork.framework/Versions/A/Headers/CFSocketStream.h150"CpHeader CFSocketStream.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CFNetwork.framework/Versions/A/Headers/CFSocketStream.h8bc67e40cbbcb841^00567f40cbbcb841^---0#0#1#-19%DVTDocumentLocation2@131"file:///Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CFNetwork.framework/Versions/A/Headers/CFSocketStream.h0034ecf7ddffdf42^609"CpHeader CFSocketStream.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CFNetwork.framework/Versions/A/Headers/CFSocketStream.h    cd /Users/manu/Cocotron/cocotron_tds/CFNetwork    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/manu/Cocotron/cocotron_tds/CFNetwork/CFSocketStream.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CFNetwork.framework/Versions/A/Headers36"D2FDE2AA-8E11-45DB-B034-1A3C433B2599-
-b38629F83-34F2-445A-9140-CB0554B9EA74
-
-CProcessInfoPlistFile /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CFNetwork.framework/Versions/A/Resources/Info.plist /Users/manu/Cocotron/cocotron_tds/CFNetwork/Info.plist
-s415025984.484324
-e415025984.488961
-r1
-xProcessInfoPlistFile
-x/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CFNetwork.framework/Versions/A/Resources/Info.plist
-x/Users/manu/Cocotron/cocotron_tds/CFNetwork/Info.plist
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"Process /Users/manu/Cocotron/cocotron_tds/CFNetwork/Info.plist152"ProcessInfoPlistFile /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CFNetwork.framework/Versions/A/Resources/Info.plist Info.plist68077c40cbbcb841^e2007e40cbbcb841^---0#0#1#-19%DVTDocumentLocation2@61"file:///Users/manu/Cocotron/cocotron_tds/CFNetwork/Info.plist0000000000000000^450"ProcessInfoPlistFile /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CFNetwork.framework/Versions/A/Resources/Info.plist Info.plist    cd /Users/manu/Cocotron/cocotron_tds/CFNetwork    builtin-infoPlistUtility /Users/manu/Cocotron/cocotron_tds/CFNetwork/Info.plist -expandbuildsettings -platform macosx -o /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CFNetwork.framework/Versions/A/Resources/Info.plist36"62518907-47D2-4183-9AFF-1CFF056E6D70-
-b38629F83-34F2-445A-9140-CB0554B9EA74
-
-CSymLink /Users/manu/Cocotron/cocotron_tds/CFNetwork/build/sym/Debug-i386-mingw32msvc/i386/CFNetwork.framework /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CFNetwork.framework
-s415025984.489472
-e415025984.493927
-r1
-xSymLink
-x/Users/manu/Cocotron/cocotron_tds/CFNetwork/build/sym/Debug-i386-mingw32msvc/i386/CFNetwork.framework
-x/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CFNetwork.framework
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Process /Users/manu/Cocotron/cocotron_tds/CFNetwork/build/sym/Debug-i386-mingw32msvc/i386/CFNetwork.framework154"SymLink build/sym/Debug-i386-mingw32msvc/i386/CFNetwork.framework /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CFNetwork.framework675f7d40cbbcb841^8fe07e40cbbcb841^---0#0#1#--413"SymLink build/sym/Debug-i386-mingw32msvc/i386/CFNetwork.framework /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CFNetwork.framework    cd /Users/manu/Cocotron/cocotron_tds/CFNetwork    /bin/ln -sf /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CFNetwork.framework /Users/manu/Cocotron/cocotron_tds/CFNetwork/build/sym/Debug-i386-mingw32msvc/i386/CFNetwork.framework36"38593C62-2496-4121-8015-2D2389177371-
-b38629F83-34F2-445A-9140-CB0554B9EA74
-
-CTouch /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CFNetwork.framework
-r0
-

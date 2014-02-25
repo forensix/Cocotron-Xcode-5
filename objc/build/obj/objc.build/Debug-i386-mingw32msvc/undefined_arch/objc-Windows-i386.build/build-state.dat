@@ -1,252 +1,0 @@
-Tobjc-Windows-i386
-v6
-r1
-cCheck dependencies
-cProcessInfoPlistFile /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/objc.framework/Versions/A/Resources/Info.plist /Users/manu/Cocotron/cocotron_tds/objc/Info.plist
-cSymLink /Users/manu/Cocotron/cocotron_tds/objc/build/sym/Debug-i386-mingw32msvc/i386/objc.framework /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/objc.framework
-cCpHeader objc-class.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/objc.framework/Versions/A/Headers/objc-class.h
-cCpHeader objc.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/objc.framework/Versions/A/Headers/objc.h
-cCpHeader objc-export.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/objc.framework/Versions/A/Headers/objc-export.h
-cCpHeader objc-runtime.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/objc.framework/Versions/A/Headers/objc-runtime.h
-cCpHeader runtime.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/objc.framework/Versions/A/Headers/runtime.h
-cCpHeader message.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/objc.framework/Versions/A/Headers/message.h
-cCpHeader deprecated.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/objc.framework/Versions/A/Headers/deprecated.h
-cCpHeader Object.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/objc.framework/Versions/A/Headers/Object.h
-cCpHeader Protocol.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/objc.framework/Versions/A/Headers/Protocol.h
-cCpHeader objc-auto.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/objc.framework/Versions/A/Headers/objc-auto.h
-cTouch /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/objc.framework
-
-N/Users/manu/Cocotron/cocotron_tds/objc/Info.plist
-c00000000530C8E2600000000000002FC
-t1393331750
-s764
-
-N/Users/manu/Cocotron/cocotron_tds/objc/Object.h
-c00000000530C8E260000000000000569
-t1393331750
-s1385
-
-N/Users/manu/Cocotron/cocotron_tds/objc/Protocol.h
-c00000000530C8E260000000000000551
-t1393331750
-s1361
-
-N/Users/manu/Cocotron/cocotron_tds/objc/build/sym/Debug-i386-mingw32msvc/i386/objc.framework
-t2
-s0
-
-N/Users/manu/Cocotron/cocotron_tds/objc/deprecated.h
-c00000000530C8E260000000000000111
-t1393331750
-s273
-
-N/Users/manu/Cocotron/cocotron_tds/objc/message.h
-c00000000530C8E260000000000000262
-t1393331750
-s610
-
-N/Users/manu/Cocotron/cocotron_tds/objc/objc-auto.h
-c00000000530C8E260000000000000000
-t1393331750
-s0
-
-N/Users/manu/Cocotron/cocotron_tds/objc/objc-class.h
-c00000000530C8E260000000000000D71
-t1393331750
-s3441
-
-N/Users/manu/Cocotron/cocotron_tds/objc/objc-export.h
-c00000000530C8E2600000000000006E6
-t1393331750
-s1766
-
-N/Users/manu/Cocotron/cocotron_tds/objc/objc-runtime.h
-c00000000530C8E26000000000000049C
-t1393331750
-s1180
-
-N/Users/manu/Cocotron/cocotron_tds/objc/objc.h
-c00000000530C8E26000000000000057C
-t1393331750
-s1404
-
-N/Users/manu/Cocotron/cocotron_tds/objc/runtime.h
-c00000000530C8E260000000000001B38
-t1393331750
-s6968
-
-N/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/objc.framework
-t1393333184
-s170
-
-N/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/objc.framework/Versions/A/Headers/Object.h
-t1393333184
-s1385
-
-N/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/objc.framework/Versions/A/Headers/Protocol.h
-t1393333184
-s1361
-
-N/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/objc.framework/Versions/A/Headers/deprecated.h
-t1393333184
-s273
-
-N/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/objc.framework/Versions/A/Headers/message.h
-t1393333184
-s610
-
-N/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/objc.framework/Versions/A/Headers/objc-auto.h
-t1393333184
-s0
-
-N/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/objc.framework/Versions/A/Headers/objc-class.h
-t1393333184
-s3441
-
-N/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/objc.framework/Versions/A/Headers/objc-export.h
-t1393333184
-s1766
-
-N/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/objc.framework/Versions/A/Headers/objc-runtime.h
-t1393333184
-s1180
-
-N/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/objc.framework/Versions/A/Headers/objc.h
-t1393333184
-s1404
-
-N/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/objc.framework/Versions/A/Headers/runtime.h
-t1393333184
-s6968
-
-N/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/objc.framework/Versions/A/Resources/Info.plist
-t1393333184
-s1079
-
-CCheck dependencies
-r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesc9c77a40cbbcb841^4fc97d40cbbcb841^---0#1#1#--18"Check dependencies36"C1D993FB-E9CB-4179-B88A-82B74C7342F7-
-
-CCpHeader Object.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/objc.framework/Versions/A/Headers/Object.h
-s415025984.498317
-e415025984.499149
-r1
-xCpHeader
-xObject.h
-x/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/objc.framework/Versions/A/Headers/Object.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"Copy /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/objc.framework/Versions/A/Headers/Object.h129"CpHeader Object.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/objc.framework/Versions/A/Headers/Object.hc6a47f40cbbcb841^7f158040cbbcb841^---0#0#1#-19%DVTDocumentLocation2@118"file:///Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/objc.framework/Versions/A/Headers/Object.h0034ecf7ddffdf42^565"CpHeader Object.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/objc.framework/Versions/A/Headers/Object.h    cd /Users/manu/Cocotron/cocotron_tds/objc    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/manu/Cocotron/cocotron_tds/objc/Object.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/objc.framework/Versions/A/Headers36"524C91E8-185F-421B-958C-D49EA07CA585-
-b165FBC3C-763E-4626-BE39-9C800D9A1D07
-
-CCpHeader Protocol.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/objc.framework/Versions/A/Headers/Protocol.h
-s415025984.498696
-e415025984.499701
-r1
-xCpHeader
-xProtocol.h
-x/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/objc.framework/Versions/A/Headers/Protocol.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"Copy /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/objc.framework/Versions/A/Headers/Protocol.h133"CpHeader Protocol.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/objc.framework/Versions/A/Headers/Protocol.hb1c07f40cbbcb841^0d1c8040cbbcb841^---0#0#1#-19%DVTDocumentLocation2@120"file:///Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/objc.framework/Versions/A/Headers/Protocol.h0034ecf7ddffdf42^571"CpHeader Protocol.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/objc.framework/Versions/A/Headers/Protocol.h    cd /Users/manu/Cocotron/cocotron_tds/objc    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/manu/Cocotron/cocotron_tds/objc/Protocol.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/objc.framework/Versions/A/Headers36"7AAA4E6A-CEF5-481B-9838-792587392BF5-
-b165FBC3C-763E-4626-BE39-9C800D9A1D07
-
-CCpHeader deprecated.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/objc.framework/Versions/A/Headers/deprecated.h
-s415025984.497792
-e415025984.498652
-r1
-xCpHeader
-xdeprecated.h
-x/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/objc.framework/Versions/A/Headers/deprecated.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection120"Copy /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/objc.framework/Versions/A/Headers/deprecated.h137"CpHeader deprecated.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/objc.framework/Versions/A/Headers/deprecated.hbb807f40cbbcb841^770f8040cbbcb841^---0#0#1#-19%DVTDocumentLocation2@122"file:///Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/objc.framework/Versions/A/Headers/deprecated.h0034ecf7ddffdf42^577"CpHeader deprecated.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/objc.framework/Versions/A/Headers/deprecated.h    cd /Users/manu/Cocotron/cocotron_tds/objc    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/manu/Cocotron/cocotron_tds/objc/deprecated.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/objc.framework/Versions/A/Headers36"9AA49874-E90F-4317-B53C-3F9FD1A6C63D-
-b165FBC3C-763E-4626-BE39-9C800D9A1D07
-
-CCpHeader message.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/objc.framework/Versions/A/Headers/message.h
-s415025984.497249
-e415025984.498222
-r1
-xCpHeader
-xmessage.h
-x/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/objc.framework/Versions/A/Headers/message.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"Copy /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/objc.framework/Versions/A/Headers/message.h131"CpHeader message.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/objc.framework/Versions/A/Headers/message.h23657f40cbbcb841^b0028040cbbcb841^---0#0#1#-19%DVTDocumentLocation2@119"file:///Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/objc.framework/Versions/A/Headers/message.h0034ecf7ddffdf42^568"CpHeader message.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/objc.framework/Versions/A/Headers/message.h    cd /Users/manu/Cocotron/cocotron_tds/objc    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/manu/Cocotron/cocotron_tds/objc/message.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/objc.framework/Versions/A/Headers36"EA1A6CC1-00FA-49CE-B05F-CA92C9F8F806-
-b165FBC3C-763E-4626-BE39-9C800D9A1D07
-
-CCpHeader objc-auto.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/objc.framework/Versions/A/Headers/objc-auto.h
-s415025984.498972
-e415025984.499981
-r1
-xCpHeader
-xobjc-auto.h
-x/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/objc.framework/Versions/A/Headers/objc-auto.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection119"Copy /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/objc.framework/Versions/A/Headers/objc-auto.h135"CpHeader objc-auto.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/objc.framework/Versions/A/Headers/objc-auto.h78d57f40cbbcb841^a71f8040cbbcb841^---0#0#1#-19%DVTDocumentLocation2@121"file:///Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/objc.framework/Versions/A/Headers/objc-auto.h0034ecf7ddffdf42^574"CpHeader objc-auto.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/objc.framework/Versions/A/Headers/objc-auto.h    cd /Users/manu/Cocotron/cocotron_tds/objc    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/manu/Cocotron/cocotron_tds/objc/objc-auto.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/objc.framework/Versions/A/Headers36"6D577E18-0832-429E-96B8-4B4710CF5DE7-
-b165FBC3C-763E-4626-BE39-9C800D9A1D07
-
-CCpHeader objc-class.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/objc.framework/Versions/A/Headers/objc-class.h
-s415025984.494594
-e415025984.495639
-r1
-xCpHeader
-xobjc-class.h
-x/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/objc.framework/Versions/A/Headers/objc-class.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection120"Copy /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/objc.framework/Versions/A/Headers/objc-class.h137"CpHeader objc-class.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/objc.framework/Versions/A/Headers/objc-class.hc0ae7e40cbbcb841^863b7f40cbbcb841^---0#0#1#-19%DVTDocumentLocation2@122"file:///Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/objc.framework/Versions/A/Headers/objc-class.h0034ecf7ddffdf42^577"CpHeader objc-class.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/objc.framework/Versions/A/Headers/objc-class.h    cd /Users/manu/Cocotron/cocotron_tds/objc    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/manu/Cocotron/cocotron_tds/objc/objc-class.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/objc.framework/Versions/A/Headers36"79B1723E-EE41-49F8-B1F9-6F6BCE2C059A-
-b165FBC3C-763E-4626-BE39-9C800D9A1D07
-
-CCpHeader objc-export.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/objc.framework/Versions/A/Headers/objc-export.h
-s415025984.495440
-e415025984.496721
-r1
-xCpHeader
-xobjc-export.h
-x/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/objc.framework/Versions/A/Headers/objc-export.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection121"Copy /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/objc.framework/Versions/A/Headers/objc-export.h139"CpHeader objc-export.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/objc.framework/Versions/A/Headers/objc-export.h21ea7e40cbbcb841^ca6d7f40cbbcb841^---0#0#1#-19%DVTDocumentLocation2@123"file:///Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/objc.framework/Versions/A/Headers/objc-export.h0034ecf7ddffdf42^580"CpHeader objc-export.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/objc.framework/Versions/A/Headers/objc-export.h    cd /Users/manu/Cocotron/cocotron_tds/objc    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/manu/Cocotron/cocotron_tds/objc/objc-export.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/objc.framework/Versions/A/Headers36"03FAF966-ED86-4ACC-AB69-CED1861212D3-
-b165FBC3C-763E-4626-BE39-9C800D9A1D07
-
-CCpHeader objc-runtime.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/objc.framework/Versions/A/Headers/objc-runtime.h
-s415025984.495879
-e415025984.497114
-r1
-xCpHeader
-xobjc-runtime.h
-x/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/objc.framework/Versions/A/Headers/objc-runtime.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection122"Copy /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/objc.framework/Versions/A/Headers/objc-runtime.h141"CpHeader objc-runtime.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/objc.framework/Versions/A/Headers/objc-runtime.h81067f40cbbcb841^e7897f40cbbcb841^---0#0#1#-19%DVTDocumentLocation2@124"file:///Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/objc.framework/Versions/A/Headers/objc-runtime.h0034ecf7ddffdf42^583"CpHeader objc-runtime.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/objc.framework/Versions/A/Headers/objc-runtime.h    cd /Users/manu/Cocotron/cocotron_tds/objc    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/manu/Cocotron/cocotron_tds/objc/objc-runtime.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/objc.framework/Versions/A/Headers36"454F33C9-F8DF-4F10-A2DC-B645756751E0-
-b165FBC3C-763E-4626-BE39-9C800D9A1D07
-
-CCpHeader objc.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/objc.framework/Versions/A/Headers/objc.h
-s415025984.494947
-e415025984.496499
-r1
-xCpHeader
-xobjc.h
-x/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/objc.framework/Versions/A/Headers/objc.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"Copy /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/objc.framework/Versions/A/Headers/objc.h125"CpHeader objc.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/objc.framework/Versions/A/Headers/objc.hf6d07e40cbbcb841^946a7f40cbbcb841^---0#0#1#-19%DVTDocumentLocation2@116"file:///Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/objc.framework/Versions/A/Headers/objc.h0034ecf7ddffdf42^559"CpHeader objc.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/objc.framework/Versions/A/Headers/objc.h    cd /Users/manu/Cocotron/cocotron_tds/objc    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/manu/Cocotron/cocotron_tds/objc/objc.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/objc.framework/Versions/A/Headers36"01C2831A-11BF-40BE-9D61-EEA0797B8833-
-b165FBC3C-763E-4626-BE39-9C800D9A1D07
-
-CCpHeader runtime.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/objc.framework/Versions/A/Headers/runtime.h
-s415025984.496467
-e415025984.497729
-r1
-xCpHeader
-xruntime.h
-x/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/objc.framework/Versions/A/Headers/runtime.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"Copy /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/objc.framework/Versions/A/Headers/runtime.h131"CpHeader runtime.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/objc.framework/Versions/A/Headers/runtime.h1d3c7f40cbbcb841^e9ed7f40cbbcb841^---0#0#1#-19%DVTDocumentLocation2@119"file:///Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/objc.framework/Versions/A/Headers/runtime.h0034ecf7ddffdf42^568"CpHeader runtime.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/objc.framework/Versions/A/Headers/runtime.h    cd /Users/manu/Cocotron/cocotron_tds/objc    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/manu/Cocotron/cocotron_tds/objc/runtime.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/objc.framework/Versions/A/Headers36"4F07F7DE-9391-4BFF-9A7B-8C8343DB6D38-
-b165FBC3C-763E-4626-BE39-9C800D9A1D07
-
-CProcessInfoPlistFile /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/objc.framework/Versions/A/Resources/Info.plist /Users/manu/Cocotron/cocotron_tds/objc/Info.plist
-s415025984.481659
-e415025984.488905
-r1
-xProcessInfoPlistFile
-x/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/objc.framework/Versions/A/Resources/Info.plist
-x/Users/manu/Cocotron/cocotron_tds/objc/Info.plist
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Process /Users/manu/Cocotron/cocotron_tds/objc/Info.plist147"ProcessInfoPlistFile /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/objc.framework/Versions/A/Resources/Info.plist Info.plist705f7b40cbbcb841^7ff87d40cbbcb841^---0#0#1#-19%DVTDocumentLocation2@56"file:///Users/manu/Cocotron/cocotron_tds/objc/Info.plist0000000000000000^430"ProcessInfoPlistFile /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/objc.framework/Versions/A/Resources/Info.plist Info.plist    cd /Users/manu/Cocotron/cocotron_tds/objc    builtin-infoPlistUtility /Users/manu/Cocotron/cocotron_tds/objc/Info.plist -expandbuildsettings -platform macosx -o /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/objc.framework/Versions/A/Resources/Info.plist36"231C5475-1ECC-4296-8F07-7CFEC1DECBFA-
-b165FBC3C-763E-4626-BE39-9C800D9A1D07
-
-CSymLink /Users/manu/Cocotron/cocotron_tds/objc/build/sym/Debug-i386-mingw32msvc/i386/objc.framework /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/objc.framework
-s415025984.489432
-e415025984.494012
-r1
-xSymLink
-x/Users/manu/Cocotron/cocotron_tds/objc/build/sym/Debug-i386-mingw32msvc/i386/objc.framework
-x/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/objc.framework
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Process /Users/manu/Cocotron/cocotron_tds/objc/build/sym/Debug-i386-mingw32msvc/i386/objc.framework144"SymLink build/sym/Debug-i386-mingw32msvc/i386/objc.framework /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/objc.framework4b5a7d40cbbcb841^57ed7e40cbbcb841^---0#0#1#--383"SymLink build/sym/Debug-i386-mingw32msvc/i386/objc.framework /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/objc.framework    cd /Users/manu/Cocotron/cocotron_tds/objc    /bin/ln -sf /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/objc.framework /Users/manu/Cocotron/cocotron_tds/objc/build/sym/Debug-i386-mingw32msvc/i386/objc.framework36"21FA98D0-7E48-487E-80B8-B3F010297509-
-b165FBC3C-763E-4626-BE39-9C800D9A1D07
-
-CTouch /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/objc.framework
-r0
-

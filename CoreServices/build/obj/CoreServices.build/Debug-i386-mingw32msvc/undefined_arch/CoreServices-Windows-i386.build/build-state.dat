@@ -1,92 +1,0 @@
-TCoreServices-Windows-i386
-v6
-r1
-cCheck dependencies
-cProcessInfoPlistFile /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreServices.framework/Versions/A/Resources/Info.plist /Users/manu/Cocotron/cocotron_tds/CoreServices/Info.plist
-cSymLink /Users/manu/Cocotron/cocotron_tds/CoreServices/build/sym/Debug-i386-mingw32msvc/i386/CoreServices.framework /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreServices.framework
-cCpHeader CoreServices.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreServices.framework/Versions/A/Headers/CoreServices.h
-cCopyStringsFile /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreServices.framework/Versions/A/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
-cTouch /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreServices.framework
-
-N/Users/manu/Cocotron/cocotron_tds/CoreServices/CoreServices.h
-c00000000530C8E260000000000000020
-t1393331750
-s32
-
-N/Users/manu/Cocotron/cocotron_tds/CoreServices/English.lproj/InfoPlist.strings
-c00000000530C8E260000000000000030
-t1393331750
-s48
-
-N/Users/manu/Cocotron/cocotron_tds/CoreServices/Info.plist
-c00000000530C8E26000000000000033F
-t1393331750
-s831
-
-N/Users/manu/Cocotron/cocotron_tds/CoreServices/build/sym/Debug-i386-mingw32msvc/i386/CoreServices.framework
-t2
-s0
-
-N/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreServices.framework
-t1393333184
-s170
-
-N/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreServices.framework/Versions/A/Headers/CoreServices.h
-t1393333184
-s32
-
-N/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreServices.framework/Versions/A/Resources/English.lproj/InfoPlist.strings
-t1393333184
-s92
-
-N/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreServices.framework/Versions/A/Resources/Info.plist
-t1393333184
-s1162
-
-CCheck dependencies
-r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies42cd8040cbbcb841^89448140cbbcb841^---0#1#1#--18"Check dependencies36"F99ED77F-DB9D-4DE3-B455-3C70136B3E76-
-
-CCopyStringsFile /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreServices.framework/Versions/A/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
-s415025984.516086
-e415025984.517398
-r1
-xCopyStringsFile
-x/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreServices.framework/Versions/A/Resources/English.lproj/InfoPlist.strings
-xEnglish.lproj/InfoPlist.strings
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection36"Copy English.lproj/InfoPlist.strings192"CopyStringsFile /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreServices.framework/Versions/A/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings6a318440cbbcb841^857c8440cbbcb841^---0#0#1#-19%DVTDocumentLocation2@85"file:///Users/manu/Cocotron/cocotron_tds/CoreServices/English.lproj/InfoPlist.strings0000000000000000^499"CopyStringsFile /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreServices.framework/Versions/A/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings    cd /Users/manu/Cocotron/cocotron_tds/CoreServices    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding UTF-16 --outdir /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreServices.framework/Versions/A/Resources/English.lproj -- English.lproj/InfoPlist.strings36"57DFE1EA-19FF-414A-9E45-F592275BFAF1-
-b1BE3DFFA-786D-416D-8649-943D2843D068
-
-CCpHeader CoreServices.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreServices.framework/Versions/A/Headers/CoreServices.h
-s415025984.514727
-e415025984.515554
-r1
-xCpHeader
-xCoreServices.h
-x/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreServices.framework/Versions/A/Headers/CoreServices.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection130"Copy /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreServices.framework/Versions/A/Headers/CoreServices.h149"CpHeader CoreServices.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreServices.framework/Versions/A/Headers/CoreServices.h74d28340cbbcb841^11fc8340cbbcb841^---0#0#1#-19%DVTDocumentLocation2@132"file:///Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreServices.framework/Versions/A/Headers/CoreServices.h0034ecf7ddffdf42^615"CpHeader CoreServices.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreServices.framework/Versions/A/Headers/CoreServices.h    cd /Users/manu/Cocotron/cocotron_tds/CoreServices    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/manu/Cocotron/cocotron_tds/CoreServices/CoreServices.h /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreServices.framework/Versions/A/Headers36"F8AC7706-D359-4BC8-A406-99916E27AE1C-
-b1BE3DFFA-786D-416D-8649-943D2843D068
-
-CProcessInfoPlistFile /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreServices.framework/Versions/A/Resources/Info.plist /Users/manu/Cocotron/cocotron_tds/CoreServices/Info.plist
-s415025984.506138
-e415025984.507371
-r1
-xProcessInfoPlistFile
-x/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreServices.framework/Versions/A/Resources/Info.plist
-x/Users/manu/Cocotron/cocotron_tds/CoreServices/Info.plist
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Process /Users/manu/Cocotron/cocotron_tds/CoreServices/Info.plist155"ProcessInfoPlistFile /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreServices.framework/Versions/A/Resources/Info.plist Info.plist3ca38140cbbcb841^b9e38140cbbcb841^---0#0#1#-19%DVTDocumentLocation2@64"file:///Users/manu/Cocotron/cocotron_tds/CoreServices/Info.plist0000000000000000^462"ProcessInfoPlistFile /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreServices.framework/Versions/A/Resources/Info.plist Info.plist    cd /Users/manu/Cocotron/cocotron_tds/CoreServices    builtin-infoPlistUtility /Users/manu/Cocotron/cocotron_tds/CoreServices/Info.plist -expandbuildsettings -platform macosx -o /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreServices.framework/Versions/A/Resources/Info.plist36"BCCE7F4D-0576-4A00-AA39-2CBEBFBF5CE7-
-b1BE3DFFA-786D-416D-8649-943D2843D068
-
-CSymLink /Users/manu/Cocotron/cocotron_tds/CoreServices/build/sym/Debug-i386-mingw32msvc/i386/CoreServices.framework /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreServices.framework
-s415025984.507807
-e415025984.513126
-r1
-xSymLink
-x/Users/manu/Cocotron/cocotron_tds/CoreServices/build/sym/Debug-i386-mingw32msvc/i386/CoreServices.framework
-x/Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreServices.framework
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"Process /Users/manu/Cocotron/cocotron_tds/CoreServices/build/sym/Debug-i386-mingw32msvc/i386/CoreServices.framework160"SymLink build/sym/Debug-i386-mingw32msvc/i386/CoreServices.framework /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreServices.framework72168240cbbcb841^9e5c8340cbbcb841^---0#0#1#--431"SymLink build/sym/Debug-i386-mingw32msvc/i386/CoreServices.framework /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreServices.framework    cd /Users/manu/Cocotron/cocotron_tds/CoreServices    /bin/ln -sf /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreServices.framework /Users/manu/Cocotron/cocotron_tds/CoreServices/build/sym/Debug-i386-mingw32msvc/i386/CoreServices.framework36"0A03F400-3F7F-4D1F-8A30-79646BA747D0-
-b1BE3DFFA-786D-416D-8649-943D2843D068
-
-CTouch /Users/manu/Cocotron/cocotron_tds/system/i386-mingw32msvc/Frameworks/CoreServices.framework
-r0
-
