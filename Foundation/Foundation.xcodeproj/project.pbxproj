@@ -12082,6 +12082,7 @@
 				FE01A6BD0C5D9B6900AEA51A /* Sources */,
 				FE01A7DA0C5D9B6900AEA51A /* Frameworks */,
 				FE01A7DB0C5D9B6900AEA51A /* Resources */,
+				32DC73F918BDDEF400281B4B /* ShellScript */,
 			);
 			buildRules = (
 			);
@@ -12553,6 +12554,19 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
+		32DC73F918BDDEF400281B4B /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "cp -rfv ../system/i386-mingw32msvc/Frameworks /Developer/Cocotron/1.0/Windows/i386/Frameworks";
+		};
 		FE1DDE4817125B38003B3AF8 /* ShellScript */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
